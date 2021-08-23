@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tvkieddine
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me? reach me on twitter @TakiMerghem
 
